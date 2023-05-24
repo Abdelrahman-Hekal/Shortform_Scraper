@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Shortform_Scraper", "Shortform_Scraper.pyproj", "{1B01F7D3-9111-4B7B-9B5F-99F01CE6C58A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B01F7D3-9111-4B7B-9B5F-99F01CE6C58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B01F7D3-9111-4B7B-9B5F-99F01CE6C58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {723C1EDE-BAF1-450D-8645-73AD4E8CB542}
+	EndGlobalSection
+EndGlobal
